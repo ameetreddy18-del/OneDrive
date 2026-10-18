@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ameetreddy18-del.github.io/OneDrive/sitemap.xml
+
